@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891103085722",
+    "firebase_url": "https://agri-doc-44d37.firebaseio.com",
+    "project_id": "agri-doc-44d37",
+    "storage_bucket": "agri-doc-44d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891103085722:android:4388a9f4e52a0b10524b23",
+        "android_client_info": {
+          "package_name": "com.bluemachi.agri_doc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891103085722-a5d5ppvpgo0jkuh49vl4h5gl3e8qfosd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_W_q2J0u-uLumtQFHeO4M5kznDNKMWZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891103085722-a5d5ppvpgo0jkuh49vl4h5gl3e8qfosd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+name: agri_doc
+description: Farmer aid
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  beauty_textfield: ^0.0.1
+  firebase_auth: ^0.15.4
+  firebase_core: ^0.4.4
+  image_picker: ^0.6.3+1
+  firebase_storage:
+  cloud_firestore:
+  progress_dialog: ^1.2.1
+  geolocator: ^5.2.1
+  http: "^0.11.3+16"
+  intl: "^0.15.6"
+  url_launcher: ^5.4.1
+  flutter_spinkit: ^4.1.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/
+  uses-material-design: true
+
