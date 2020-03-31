@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/joelmathew/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/joelmathew/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/joelmathew/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/joelmathew/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/joelmathew/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    }
+]

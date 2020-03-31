@@ -1,0 +1,165 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bluemachi.agri_doc"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/profile/AndroidManifest.xml:6:5-66
+14-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/profile/AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:7:5-80
+15-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:7:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:8:5-81
+16-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:8:22-78
+17    <!--
+18 io.flutter.app.FlutterApplication is an android.app.Application that
+19         calls FlutterMain.startInitialization(this); in its onCreate method.
+20         In most cases you can leave this as-is, but you if you want to provide
+21         additional functionality it is fine to subclass or reimplement
+22         FlutterApplication and put your custom class here.
+23    -->
+24    <application
+24-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:8:5-29:19
+25        android:name="io.flutter.app.FlutterApplication"
+25-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:9:9-57
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.0.2] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3aabd8abbe4aca13d5de98eb4193fb62/core-1.0.2/AndroidManifest.xml:22:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:11:9-43
+29        android:label="agri_doc" >
+29-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:10:9-33
+30        <activity
+30-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:12:9-23:20
+31            android:name="com.bluemachi.agri_doc.MainActivity"
+31-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:13:13-41
+32            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+32-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:16:13-163
+33            android:hardwareAccelerated="true"
+33-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:17:13-47
+34            android:launchMode="singleTop"
+34-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:14:13-43
+35            android:theme="@style/LaunchTheme"
+35-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:15:13-47
+36            android:windowSoftInputMode="adjustResize" >
+36-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:18:13-55
+37            <intent-filter>
+37-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:19:13-22:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:20:17-68
+38-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:20:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:21:17-76
+40-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:21:27-74
+41            </intent-filter>
+42        </activity>
+43        <!--
+44             Don't delete the meta-data below.
+45             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+46        -->
+47        <meta-data
+47-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:26:9-28:33
+48            android:name="flutterEmbedding"
+48-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:27:13-44
+49            android:value="2" />
+49-->/Users/joelmathew/AndroidStudioProjects/agri_doc/android/app/src/main/AndroidManifest.xml:28:13-30
+50
+51        <service
+51-->[:firebase_auth] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/firebase_auth/intermediates/library_manifest/profile/AndroidManifest.xml:8:9-12:19
+52            android:name="com.google.firebase.components.ComponentDiscoveryService"
+52-->[:firebase_auth] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/firebase_auth/intermediates/library_manifest/profile/AndroidManifest.xml:8:18-89
+53            android:directBootAware="true"
+53-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a4077d08b311b456f2164fe90dda8534/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+54            android:exported="false" >
+54-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:35:13-37
+55            <meta-data
+55-->[:firebase_auth] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/firebase_auth/intermediates/library_manifest/profile/AndroidManifest.xml:9:13-11:85
+56                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
+56-->[:firebase_auth] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/firebase_auth/intermediates/library_manifest/profile/AndroidManifest.xml:10:17-122
+57                android:value="com.google.firebase.components.ComponentRegistrar" />
+57-->[:firebase_auth] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/firebase_auth/intermediates/library_manifest/profile/AndroidManifest.xml:11:17-82
+58            <meta-data
+58-->[:firebase_core] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:9:13-11:85
+59                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+59-->[:firebase_core] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:10:17-123
+60                android:value="com.google.firebase.components.ComponentRegistrar" />
+60-->[:firebase_core] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:11:17-82
+61            <meta-data
+61-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
+62                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+62-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
+63                android:value="com.google.firebase.components.ComponentRegistrar" />
+63-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
+64        </service>
+65
+66        <provider
+66-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:11:9-19:20
+67            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+67-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:12:13-82
+68            android:authorities="com.bluemachi.agri_doc.flutter.image_provider"
+68-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:13:13-74
+69            android:exported="false"
+69-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:14:13-37
+70            android:grantUriPermissions="true" >
+70-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:15:13-47
+71            <meta-data
+71-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:16:13-18:75
+72                android:name="android.support.FILE_PROVIDER_PATHS"
+72-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:17:17-67
+73                android:resource="@xml/flutter_image_picker_file_paths" />
+73-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/agri_doc/build/image_picker/intermediates/library_manifest/profile/AndroidManifest.xml:18:17-72
+74        </provider>
+75
+76        <activity
+76-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:24:9-31:50
+77            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+77-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:25:13-85
+78            android:excludeFromRecents="true"
+78-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:26:13-46
+79            android:exported="true"
+79-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:27:13-36
+80            android:launchMode="singleTask"
+80-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:28:13-44
+81            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+81-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:29:13-102
+82            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+82-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:30:13-72
+83        <activity
+83-->[com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+84            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+84-->[com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+85            android:exported="false"
+85-->[com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+86            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+86-->[com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+87
+88        <provider
+88-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a4077d08b311b456f2164fe90dda8534/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+89            android:name="com.google.firebase.provider.FirebaseInitProvider"
+89-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a4077d08b311b456f2164fe90dda8534/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+90            android:authorities="com.bluemachi.agri_doc.firebaseinitprovider"
+90-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a4077d08b311b456f2164fe90dda8534/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+91            android:exported="false"
+91-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a4077d08b311b456f2164fe90dda8534/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+92            android:initOrder="100" />
+92-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a4077d08b311b456f2164fe90dda8534/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+93
+94        <meta-data
+94-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/7155732db03afb5fa6c445ef56e59edd/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+95            android:name="com.google.android.gms.version"
+95-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/7155732db03afb5fa6c445ef56e59edd/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+96            android:value="@integer/google_play_services_version" />
+96-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/7155732db03afb5fa6c445ef56e59edd/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+97    </application>
+98
+99</manifest>

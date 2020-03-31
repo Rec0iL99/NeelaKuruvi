@@ -1,0 +1,202 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bluemachi.agri_doc"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:9:5-66
+14-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:10:5-79
+15-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:11:5-81
+16-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+17-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+18-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+18-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+19    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:5-79
+20-->[com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:22-76
+21
+22    <application
+22-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:13:5-34:19
+23        android:name="io.flutter.app.FlutterApplication"
+23-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:14:9-57
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:16:9-43
+27        android:label="NeelaKuruvi" >
+27-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:15:9-36
+28        <activity
+28-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:17:9-28:20
+29            android:name="com.bluemachi.agri_doc.MainActivity"
+29-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:18:13-41
+30            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+30-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:21:13-163
+31            android:hardwareAccelerated="true"
+31-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:22:13-47
+32            android:launchMode="singleTop"
+32-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:19:13-43
+33            android:theme="@style/LaunchTheme"
+33-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:20:13-47
+34            android:windowSoftInputMode="adjustResize" >
+34-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:23:13-55
+35            <intent-filter>
+35-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:24:13-27:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:25:17-68
+36-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:25:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:26:17-76
+38-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:26:27-74
+39            </intent-filter>
+40        </activity>
+41        <!--
+42             Don't delete the meta-data below.
+43             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+44        -->
+45        <meta-data
+45-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:31:9-33:33
+46            android:name="flutterEmbedding"
+46-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:32:13-44
+47            android:value="2" />
+47-->/Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:33:13-30
+48
+49        <service
+49-->[:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+50            android:name="com.google.firebase.components.ComponentDiscoveryService"
+50-->[:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+51            android:directBootAware="true"
+51-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+52            android:exported="false" >
+52-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:35:13-37
+53            <meta-data
+53-->[:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+54                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
+54-->[:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+55                android:value="com.google.firebase.components.ComponentRegistrar" />
+55-->[:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+56            <meta-data
+56-->[:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+57                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
+57-->[:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+58                android:value="com.google.firebase.components.ComponentRegistrar" />
+58-->[:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+59            <meta-data
+59-->[:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+60                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
+60-->[:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+62            <meta-data
+62-->[:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+63                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+63-->[:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+65            <meta-data
+65-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
+66                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+66-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
+67                android:value="com.google.firebase.components.ComponentRegistrar" />
+67-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
+68            <meta-data
+68-->[com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:31:13-33:85
+69                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+69-->[com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:32:17-107
+70                android:value="com.google.firebase.components.ComponentRegistrar" />
+70-->[com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:33:17-82
+71            <meta-data
+71-->[com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
+72                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+72-->[com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
+74        </service>
+75
+76        <provider
+76-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+77            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+77-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+78            android:authorities="com.bluemachi.agri_doc.flutter.image_provider"
+78-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+79            android:exported="false"
+79-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+80            android:grantUriPermissions="true" >
+80-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+81            <meta-data
+81-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+82                android:name="android.support.FILE_PROVIDER_PATHS"
+82-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+83                android:resource="@xml/flutter_image_picker_file_paths" />
+83-->[:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+84        </provider>
+85
+86        <activity
+86-->[:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+87            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+87-->[:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+88            android:exported="false"
+88-->[:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+89            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+89-->[:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+90        <activity
+90-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:24:9-31:50
+91            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+91-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:25:13-85
+92            android:excludeFromRecents="true"
+92-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:26:13-46
+93            android:exported="true"
+93-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:27:13-36
+94            android:launchMode="singleTask"
+94-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:28:13-44
+95            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+95-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:29:13-102
+96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+96-->[com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:30:13-72
+97
+98        <provider
+98-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+99            android:name="com.google.firebase.provider.FirebaseInitProvider"
+99-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+100            android:authorities="com.bluemachi.agri_doc.firebaseinitprovider"
+100-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+101            android:exported="false"
+101-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+102            android:initOrder="100" />
+102-->[com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+103
+104        <activity
+104-->[com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+105            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+105-->[com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+106            android:exported="false"
+106-->[com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+107            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+107-->[com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+108
+109        <meta-data
+109-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+110            android:name="com.google.android.gms.version"
+110-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+111            android:value="@integer/google_play_services_version" />
+111-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+112    </application>
+113
+114</manifest>

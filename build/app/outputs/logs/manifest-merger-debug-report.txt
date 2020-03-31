@@ -1,0 +1,437 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_api_availability] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:location_permissions] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_macos] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1e43ec82407637f465c620e746b223b7/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/438b4d2b3dc56db1a963e6409a53981b/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/516d475c610d5ee0701cc5d0e0043980/firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/2a2ff4e2ca31d43ce7839e62c3803847/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/5157104f3bd9253cd81a7d6f29c1621c/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/536c4d230adcf87aec8f00c8955f8127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3008a15222323dd0393f3314747b2d3a/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/5a5d53679d914b768463e606a8e8f920/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/2ecca17b0eb70fcbc1e9d8148641257d/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/74d81cbab4baf82cd5ba855cad11f23d/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/b652641e60f40536fdf44e18539d0968/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/80193b16096889af26cfa4dfa7bc06a3/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/34268753bded0b91ecc4a1af1815ce82/grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/b6af014a2c327ee5be3b6ff514bba95a/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a354eb536d40d44205558c740c860a07/protolite-well-known-types-17.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [:geolocator] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [:geolocator] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:13:5-34:19
+MERGED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/438b4d2b3dc56db1a963e6409a53981b/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/438b4d2b3dc56db1a963e6409a53981b/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/516d475c610d5ee0701cc5d0e0043980/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/516d475c610d5ee0701cc5d0e0043980/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/2a2ff4e2ca31d43ce7839e62c3803847/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/2a2ff4e2ca31d43ce7839e62c3803847/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:15:9-36
+	android:icon
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:16:9-43
+	android:name
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:14:9-57
+activity#com.bluemachi.agri_doc.MainActivity
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:17:9-28:20
+	android:launchMode
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:21:13-163
+	android:theme
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:26:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:31:9-33:33
+	android:value
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:33:13-30
+	android:name
+		ADDED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml:32:13-44
+uses-sdk
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1e43ec82407637f465c620e746b223b7/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1e43ec82407637f465c620e746b223b7/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/438b4d2b3dc56db1a963e6409a53981b/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/438b4d2b3dc56db1a963e6409a53981b/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/516d475c610d5ee0701cc5d0e0043980/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/516d475c610d5ee0701cc5d0e0043980/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/2a2ff4e2ca31d43ce7839e62c3803847/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/2a2ff4e2ca31d43ce7839e62c3803847/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/5157104f3bd9253cd81a7d6f29c1621c/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/5157104f3bd9253cd81a7d6f29c1621c/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/536c4d230adcf87aec8f00c8955f8127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/536c4d230adcf87aec8f00c8955f8127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3008a15222323dd0393f3314747b2d3a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3008a15222323dd0393f3314747b2d3a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/5a5d53679d914b768463e606a8e8f920/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/5a5d53679d914b768463e606a8e8f920/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/2ecca17b0eb70fcbc1e9d8148641257d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/2ecca17b0eb70fcbc1e9d8148641257d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/74d81cbab4baf82cd5ba855cad11f23d/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/74d81cbab4baf82cd5ba855cad11f23d/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/b652641e60f40536fdf44e18539d0968/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/b652641e60f40536fdf44e18539d0968/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/80193b16096889af26cfa4dfa7bc06a3/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/80193b16096889af26cfa4dfa7bc06a3/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/34268753bded0b91ecc4a1af1815ce82/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/34268753bded0b91ecc4a1af1815ce82/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/b6af014a2c327ee5be3b6ff514bba95a/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/b6af014a2c327ee5be3b6ff514bba95a/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a354eb536d40d44205558c740c860a07/protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a354eb536d40d44205558c740c860a07/protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/android/app/src/debug/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/joelmathew/AndroidStudioProjects/neela_kuruvi/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/34268753bded0b91ecc4a1af1815ce82/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/34268753bded0b91ecc4a1af1815ce82/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:22-76
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/ea40b3d8bfa3ef8ae8fc8490451b8d54/jetified-firebase-storage-17.0.0/AndroidManifest.xml:32:17-107
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/1dd46f65a3ba92c59711ebcfa6f5b9e1/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/0810d0d59ed8cb25ab230c14537de027/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/joelmathew/.gradle/caches/transforms-2/files-2.1/4f920ea5e250d2e7b37bddb911991bf3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

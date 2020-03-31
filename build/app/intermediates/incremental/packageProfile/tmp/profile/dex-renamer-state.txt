@@ -1,0 +1,4 @@
+#Fri Feb 14 16:20:12 IST 2020
+base.0=/Users/joelmathew/AndroidStudioProjects/agri_doc/build/app/intermediates/dex/profile/mergeDexProfile/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
